@@ -1,5 +1,8 @@
 # test2
 
+opencv,pythonでカメラで取得した画像をガンマ変換するコード
+以下に実行例の動画のリンク
+
 https://youtu.be/st9wa0Fty7w
 
 参考文献
