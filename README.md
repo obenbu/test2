@@ -1,3 +1,3 @@
 # test2
 
-https://www.youtube.com/edit?o=U&video_id=haouH6IdygY
+https://youtu.be/st9wa0Fty7w
